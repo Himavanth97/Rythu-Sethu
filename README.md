@@ -9,6 +9,9 @@
 [![Vite](https://img.shields.io/badge/Vite-6-purple?logo=vite)](https://vitejs.dev)
 [![Gemini AI](https://img.shields.io/badge/Gemini-2.5-orange?logo=google)](https://ai.google.dev)
 [![Languages](https://img.shields.io/badge/Languages-English%20%7C%20Telugu%20%7C%20Urdu-brightgreen)](#-multilingual-support)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-brightgreen)](https://rythu-sethu-five.vercel.app/)
+<br><br>
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FHimavanth97%2FRythu-Sethu)
 
 </div>
 
